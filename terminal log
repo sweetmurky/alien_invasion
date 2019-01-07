@@ -1,0 +1,447 @@
+mint@mint-VirtualBox:~$ ls
+'CLI uptime.png'           GNS3       PycharmProjects          Videos
+'CLI winning uptime.png'   Music     'Python Cheatsheet.pdf'  'week 1.txt'
+ Desktop                   PFCNE      shuttle.jpg
+ Documents                 Pictures   Templates
+ Downloads                 Public     Uptime.jpg
+mint@mint-VirtualBox:~$ cd PycharmProjects/
+mint@mint-VirtualBox:~/PycharmProjects$ ls
+alien_invasion  breaker  matplotlib  xmas
+mint@mint-VirtualBox:~/PycharmProjects$ cd alien_invasion/
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ ls
+alien_invasion.py  settings.py
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python alien_invasion.py Traceback (most recent call last):
+  File "alien_invasion.py", line 3, in <module>
+    import pygame
+ImportError: No module named pygame
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 31, in <module>
+    run_game()
+  File "alien_invasion.py", line 21, in run_game
+    if event.type == pygame.QUIT():
+TypeError: 'int' object is not callable
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 31, in <module>
+    run_game()
+  File "alien_invasion.py", line 21, in run_game
+    if event.type == pygame.QUIT():
+TypeError: 'int' object is not callable
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 31, in <module>
+    run_game()
+  File "alien_invasion.py", line 21, in run_game
+    if event.type == pygame.QUIT():
+TypeError: 'int' object is not callable
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 5, in <module>
+    from settings import settings
+  File "/home/mint/PycharmProjects/alien_invasion/settings.py", line 6
+    def __init__(self):
+      ^
+IndentationError: expected an indented block
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 5, in <module>
+    from settings import settings
+ImportError: cannot import name 'settings'
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 5, in <module>
+    from settings import settings
+ImportError: cannot import name 'settings'
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 5, in <module>
+    from settings import settings
+  File "/home/mint/PycharmProjects/alien_invasion/settings.py", line 6
+    def __init__(self):
+      ^
+IndentationError: expected an indented block
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+
+Traceback (most recent call last):
+  File "alien_invasion.py", line 5, in <module>
+    from settings import settings
+ImportError: cannot import name 'settings'
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 5, in <module>
+    from settings import settings
+ImportError: cannot import name 'settings'
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 5, in <module>
+    from settings import settings
+ImportError: cannot import name 'settings'
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 35, in <module>
+    run_game()
+  File "alien_invasion.py", line 24, in run_game
+    if event.type == pygame.QUIT():
+TypeError: 'int' object is not callable
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 35, in <module>
+    run_game()
+  File "alien_invasion.py", line 24, in run_game
+    if event.type == pygame.QUIT():
+TypeError: 'int' object is not callable
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 37, in <module>
+    run_game()
+  File "alien_invasion.py", line 21, in run_game
+    gf.check_events(ship)
+NameError: name 'gf' is not defined
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 7, in <module>
+    import game_functions as gf
+  File "/home/mint/PycharmProjects/alien_invasion/game_functions.py", line 7
+    elif event.type == pygame.KEYDOWN:
+                                     ^
+IndentationError: unindent does not match any outer indentation level
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 7, in <module>
+    import game_functions as gf
+  File "/home/mint/PycharmProjects/alien_invasion/game_functions.py", line 7
+    elif event.type == pygame.KEYDOWN:
+                                     ^
+IndentationError: unindent does not match any outer indentation level
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 39, in <module>
+    run_game()
+  File "alien_invasion.py", line 23, in run_game
+    gf.check_events(ship)
+NameError: name 'ship' is not defined
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 40, in <module>
+    run_game()
+  File "alien_invasion.py", line 23, in run_game
+    gf.check_events(ship)
+NameError: name 'ship' is not defined
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 39, in <module>
+    run_game()
+  File "alien_invasion.py", line 22, in run_game
+    gf.check_events(ship)
+NameError: name 'ship' is not defined
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 7, in <module>
+    import game_functions as gf
+  File "/home/mint/PycharmProjects/alien_invasion/game_functions.py", line 13
+    elif
+       ^
+IndentationError: unindent does not match any outer indentation level
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 7, in <module>
+    import game_functions as gf
+  File "/home/mint/PycharmProjects/alien_invasion/game_functions.py", line 13
+    elif
+       ^
+IndentationError: unindent does not match any outer indentation level
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 7, in <module>
+    import game_functions as gf
+  File "/home/mint/PycharmProjects/alien_invasion/game_functions.py", line 13
+    elif event.type == pygame.KEYUP:
+                                   ^
+IndentationError: unindent does not match any outer indentation level
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 39, in <module>
+    run_game()
+  File "alien_invasion.py", line 22, in run_game
+    gf.check_events(ship)
+NameError: name 'ship' is not defined
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 39, in <module>
+    run_game()
+  File "alien_invasion.py", line 22, in run_game
+    gf.check_events(ship)
+NameError: name 'ship' is not defined
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 39, in <module>
+    run_game()
+  File "alien_invasion.py", line 22, in run_game
+    gf.check_events(ship)
+NameError: name 'ship' is not defined
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 44, in <module>
+    run_game()
+  File "alien_invasion.py", line 18, in run_game
+    ship = Ship(screen)
+  File "/home/mint/PycharmProjects/alien_invasion/ship.py", line 8, in __init__
+    self.image = pygame.image.load('images/ship.bmp')
+NameError: name 'pygame' is not defined
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 44, in <module>
+    run_game()
+  File "alien_invasion.py", line 18, in run_game
+    ship = Ship(screen)
+  File "/home/mint/PycharmProjects/alien_invasion/ship.py", line 8, in __init__
+    self.image = pygame.image.load('images/ship.bmp')
+NameError: name 'pygame' is not defined
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ python3 alien_invasion.py
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 44, in <module>
+    run_game()
+  File "alien_invasion.py", line 18, in run_game
+    ship = Ship(screen)
+  File "/home/mint/PycharmProjects/alien_invasion/ship.py", line 8, in __init__
+    self.image = pygame.image.load('images/ship.bmp')
+NameError: name 'pygame' is not defined
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ ls
+alien_invasion.py  game_functions.py  images  __pycache__  settings.py  ship.py
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ sudo python3 alien_invasion.py
+[sudo] password for mint: 
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 44, in <module>
+    run_game()
+  File "alien_invasion.py", line 18, in run_game
+    ship = Ship(screen)
+  File "/home/mint/PycharmProjects/alien_invasion/ship.py", line 8, in __init__
+    self.image = pygame.image.load('images/ship.bmp')
+NameError: name 'pygame' is not defined
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ sudo python3 alien_invasion.py
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "alien_invasion.py", line 44, in <module>
+    run_game()
+  File "alien_invasion.py", line 18, in run_game
+    ship = Ship(ai_settings, screen)
+  File "/home/mint/PycharmProjects/alien_invasion/ship.py", line 9, in __init__
+    self.image = pygame.image.load('images/ship.bmp')
+NameError: name 'pygame' is not defined
+mint@mint-VirtualBox:~/PycharmProjects/alien_invasion$ 
+
